@@ -27,7 +27,7 @@ const portfolio = [
         ]
     },
     {
-        id: 0,
+        id: 1,
         projectName: "Restaurant Website",
         url: "not available",
         image: "projects/absco.png",
@@ -45,7 +45,7 @@ const portfolio = [
         ]
     },
     {
-        id: 0,
+        id: 2,
         projectName: "NxtBigByte Website",
         url: "https://nbb.ai",
         image: "projects/nbb.png",
@@ -63,7 +63,7 @@ const portfolio = [
         ]
     },
     {
-        id: 0,
+        id: 3,
         projectName: "CRM for Livekeeping",
         url: "not available",
         image: "projects/alsn.png",
@@ -84,7 +84,7 @@ const portfolio = [
         ]
     },
     {
-        id: 0,
+        id: 4,
         projectName: "Virtual Clone Ui",
         url: "https://virtual-mu.vercel.app/",
         image: "projects/virtual.png",
@@ -101,30 +101,33 @@ const portfolio = [
             }
         ]
     },
-    // {
-    //     id: 0,
-    //     projectName: "Fateh Al Mustaqbil",
-    //     url: "https://fatehtour.com/",
-    //     image: "projects/fateh.png",
-    //     projectDetail: "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Their expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance.",
-    //     technologiesUsed: [
-    //         {
-    //             tech: "ReactJS"
-    //         },
-    //         {
-    //             tech: ".net"
-    //         },
-    //         {
-    //             tech: "REST API's"
-    //         },
-    //         {
-    //             tech: "Ant Design"
-    //         },
-    //         {
-    //             tech: "TailwindCSS"
-    //         },
-    //     ]
-    // },
+    {
+        id: 5,
+        projectName: "Apple Clone",
+        url: "https://vikash-apple-clone.vercel.app/",
+        image: "projects/appleClone.png",
+        projectDetail: "Apple Clone is a website built using ReactJS, TailwindCSS. It is a clone of the Apple website and deployed on Vercel.",
+        technologiesUsed: [
+            {
+                tech: "Html"
+            },
+            {
+                tech: "Css"
+            },
+            {
+                tech: "JavaScript"
+            },
+            {
+                tech: "ReactJS"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+        ]
+    },
     // {
     //     id: 0,
     //     projectName: "Tojjar",
