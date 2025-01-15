@@ -28,22 +28,32 @@ const portfolio = [
     },
     {
         id: 1,
-        projectName: "Restaurant Website",
-        url: "not available",
-        image: "projects/absco.png",
-        projectDetail: "This is a restaurant website built using React, TailwindCSS. It has multiple pages like Home, Menu, About, Contact, etc.",
+        projectName: "Apple Clone",
+        url: "https://vikash-apple-clone.vercel.app/",
+        image: "projects/appleClone.png",
+        projectDetail: "Apple Clone is a website built using ReactJS, TailwindCSS. It is a clone of the Apple website and deployed on Vercel.",
         technologiesUsed: [
+            {
+                tech: "Html"
+            },
+            {
+                tech: "Css"
+            },
+            {
+                tech: "JavaScript"
+            },
             {
                 tech: "ReactJS"
             },
             {
-                tech: "TailwindCSS"
+                tech: "REST API's"
             },
             {
-                tech: "JavaScript"
-            }
+                tech: "TailwindCSS"
+            },
         ]
     },
+
     {
         id: 2,
         projectName: "NxtBigByte Website",
@@ -101,33 +111,26 @@ const portfolio = [
             }
         ]
     },
+
     {
         id: 5,
-        projectName: "Apple Clone",
-        url: "https://vikash-apple-clone.vercel.app/",
-        image: "projects/appleClone.png",
-        projectDetail: "Apple Clone is a website built using ReactJS, TailwindCSS. It is a clone of the Apple website and deployed on Vercel.",
+        projectName: "Restaurant Website",
+        url: "not available",
+        image: "projects/absco.png",
+        projectDetail: "This is a restaurant website built using React, TailwindCSS. It has multiple pages like Home, Menu, About, Contact, etc.",
         technologiesUsed: [
-            {
-                tech: "Html"
-            },
-            {
-                tech: "Css"
-            },
-            {
-                tech: "JavaScript"
-            },
             {
                 tech: "ReactJS"
             },
             {
-                tech: "REST API's"
-            },
-            {
                 tech: "TailwindCSS"
             },
+            {
+                tech: "JavaScript"
+            }
         ]
     },
+
     // {
     //     id: 0,
     //     projectName: "Tojjar",
