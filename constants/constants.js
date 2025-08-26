@@ -2,7 +2,7 @@ import { calculateAge } from "../utils/utils";
 
 export const NAME = 'Vikash Jangir';
 
-export const DESIGNATION = `MERN Stack Developer | Vue.js Developer`;
+export const DESIGNATION = `Full Stack Developer | |React, Vue.js Developer | Node.js Developer`;
 
 export const DETAILS = {
   Residence: 'India',
@@ -37,7 +37,6 @@ export const TECH_STACK = [
   'JavaScript',
   'ReactJS',
   'VueJs',
-  'NextJS',
   'TypeScript',
   'NodeJS',
   'ExpressJS',

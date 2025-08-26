@@ -19,8 +19,8 @@ const Banner = () => {
                                             <Typewriter
                                                 options={{
                                                     strings:
-                                                        ['MERN Stack Developer',
-                                                            'NextJs Developer'],
+                                                        ['Full Stack Developer',
+                                                            'React Developer','Vue Developer','Node.js Developer'],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
