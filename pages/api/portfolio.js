@@ -148,6 +148,24 @@ const portfolio = [
             }
         ]
     },
+    {
+        id: 7,
+        projectName: "Linkedin Clone",
+        url: "https://linkedin-mui-clone.vercel.app/",
+        image: "projects/alsn.png",
+        projectDetail: "This is demo of Linkedin made in react.js with full responsiveness.",
+        technologiesUsed: [
+            {
+                tech: "ReactJS"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+            {
+                tech: "JavaScript"
+            }
+        ]
+    },
 
     // {
     //     id: 0,
