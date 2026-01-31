@@ -130,6 +130,24 @@ const portfolio = [
             }
         ]
     },
+    {
+        id: 6,
+        projectName: "India Today",
+        url: "https://india-today-demo.vercel.app/",
+        image: "projects/absco.png",
+        projectDetail: "This is demo india today website used animation and canvas for making interactive and animated web design",
+        technologiesUsed: [
+            {
+                tech: "ReactJS"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+            {
+                tech: "JavaScript"
+            }
+        ]
+    },
 
     // {
     //     id: 0,

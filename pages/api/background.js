@@ -28,6 +28,15 @@ const background = [
         expCards: [
             {
                 id: 1,
+                title: 'Droisys',
+                role: 'Full stack Developer',
+                url: 'https://droisys.com/',
+                desc: 'As a full stack developer, I use React,Vue.js, Next, node.js, express & JavaScript to build user interfaces and backends for web applications.',
+                year: '10/2024 - Present',
+                location: 'Noida, India'
+            },
+            {
+                id: 2,
                 title: 'Livekeeping (An IndiaMART Company)',
                 role: 'Frontend Developer',
                 url: 'https://www.livekeeping.com/',
@@ -36,7 +45,7 @@ const background = [
                 location: 'Noida, India'
             },
             {
-                id: 2,
+                id: 3,
                 title: 'NxtBigByte pvt. ltd.',
                 role: 'Full Stack Developer',
                 url: 'https://nbb.ai',
