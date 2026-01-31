@@ -32,7 +32,7 @@ const background = [
                 role: 'Full stack Developer',
                 url: 'https://droisys.com/',
                 desc: 'As a full stack developer, I use React,Vue.js, Next, node.js, express & JavaScript to build user interfaces and backends for web applications.',
-                year: '10/2024 - Present',
+                year: '10/2025 - Present',
                 location: 'Noida, India'
             },
             {
