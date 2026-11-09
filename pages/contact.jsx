@@ -8,6 +8,7 @@ import { BsChatTextFill } from 'react-icons/bs'
 import Footer from '../components/Footer';
 import { Modal } from 'antd';
 import axios from 'axios';
+import Seo from '../components/Seo';
 
 const Contact = () => {
     const [isOpen, setIsOpen] = useState(false)
@@ -48,6 +49,11 @@ const Contact = () => {
 
     return (
         <BannerLayout>
+            <Seo
+                title="Contact"
+                description="Get in touch with Vikash Jangir, Full Stack Developer in Noida, India, for freelance or full-time work."
+                path="/contact"
+            />
             <div className=" px-4 py-2">
                 <div className="my-6 text-Snow flex flex-col gap-y-5">
                     <h1 className='text-lg font-bold'>Contact Information</h1>

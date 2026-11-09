@@ -2,11 +2,15 @@ import { calculateAge } from "../utils/utils";
 
 export const NAME = 'Vikash Jangir';
 
-export const DESIGNATION = `Full Stack Developer | |React, Vue.js Developer | Node.js Developer`;
+// Public URL of the deployed site. Change this if you move to a custom domain
+// (also update public/robots.txt and public/sitemap.xml).
+export const SITE_URL = 'https://vikashjangir.vercel.app';
+
+export const DESIGNATION = `Full Stack Developer | AI & Workflow Automation`;
 
 export const DETAILS = {
   Residence: 'India',
-  City: 'Noida',
+  City: 'Delhi',
   Age: calculateAge('2001-03-23'),
 };
 
@@ -35,22 +39,38 @@ export const SKILLS = [
 
 export const TECH_STACK = [
   'JavaScript',
-  'ReactJS',
-  'VueJs',
   'TypeScript',
+  'ReactJS',
+  'NextJS',
+  'Redux',
+  'VueJs',
+  'NuxtJS',
+  'Vuex',
+  'Pinia',
   'NodeJS',
   'ExpressJS',
-  'Redux',
-  'Pinia',
-  'Vuetify',
+  'MongoDB',
+  'REST API',
   'HTML',
   'CSS',
   'SCSS',
   'TailwindCSS',
-  'REST API',
-  'MongoDB',
+  'Vuetify',
+  'Material UI',
+  'Bootstrap',
+  'RAG',
+  'OpenAI',
+  'Claude',
+  'LLMs',
+  'n8n',
+  'AI Agents',
+  'Vite',
+  'Jest',
+  'WebSockets',
+  'CI/CD',
   'Git',
   'GitHub',
+  'Jira',
 ];
 
 export const CONTACTS = {
